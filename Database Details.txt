@@ -1,4 +1,0 @@
-Database:	vinaykum_onlinenotes
-Host:		localhost
-Username:	vinaykum_notes
-Password:	vinaykumar27450
